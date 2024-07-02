@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather forecast</string>
+    <string name="Citat">Сгенерировать цитату</string>
+    <string name="txtmain">Нажмите на кнопку для получения случайной цитаты</string>
+</resources>
